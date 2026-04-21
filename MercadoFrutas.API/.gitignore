@@ -1,0 +1,13 @@
+# .NET
+MercadoFrutas.API/bin/
+MercadoFrutas.API/obj/
+MercadoFrutas.API/appsettings.Development.json
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# General
+.DS_Store
+*.user

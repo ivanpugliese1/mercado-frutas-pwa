@@ -1,0 +1,6 @@
+@MercadoFrutas.API_HostAddress = http://localhost:5273
+
+GET {{MercadoFrutas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
